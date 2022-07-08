@@ -1,5 +1,5 @@
-Computer Vision Lab
-> Exploring computer vision techniques and algorithms. 
+# Computer Vision Lab
+> Exploring computer vision techniques and algorithms. Including spatial and frequency domain filtering, transformation, and color spaces.
 
 # Contents:
 * [Intensity Transformation and Spatial Filtering](https://github.com/arashsm79/computer-vision-lab/tree/main/Intensity-Transformation-and-Spatial-Filtering): All the filtering and transformation is done manually without using image processing libraries.
