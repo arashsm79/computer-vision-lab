@@ -41,3 +41,10 @@ Computer Vision Lab
    * Edge detectiong using band reject filters
    * Smoothing using band reject filters
 
+* [Color Spaces](https://github.com/arashsm79/computer-vision-lab/tree/main/Color-Spaces)
+   * Converting RGB to HSI manually
+   * Color slicing in HSI
+   * Color slicing in RGB
+   * Gamma correction
+   * Saturation adjustment
+   * Hue shifting
