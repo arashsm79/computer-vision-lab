@@ -31,4 +31,13 @@ Computer Vision Lab
     * Streching vertically
     * Streching horizontally
     * Streching horizontally and vertically
+    
+* [Filtering in the Frequency Domain](https://github.com/arashsm79/computer-vision-lab/tree/main/Filtering-in-the-Frequency-Domain)
+   * Calculating the fourier transform of a spatially trasformed image
+   * Analyzing the fourier transform of an image
+   * Remove salt and pepper noise in the frequency domain
+   * Fourier transform of a rotated image
+   * Fourier transform of a translated image
+   * Edge detectiong using band reject filters
+   * Smoothing using band reject filters
 
